@@ -1,0 +1,10 @@
+{"version": "1",
+    "packages": [
+        {
+            "engine": "mysql",
+         "path": "db",
+        "schema": "query.sql",
+        "queries": "query.sql"
+        }
+    ]
+    }
